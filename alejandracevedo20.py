@@ -5,8 +5,8 @@ from instapy import smart_run
 
 # login credentials
 
-insta_username = 'alejandracevedo20'
-insta_password = '604030755ALEJA'
+insta_username = ''
+insta_password = ''
 
 #restriction DATA
 
